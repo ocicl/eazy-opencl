@@ -1,0 +1,10 @@
+* eazy-opencl
+
+OpenCL binding for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/eazy-opencl.git   |
+| commit  | ec3b2aa  |
+| systems | eazy-opencl |
+|---------+-------------------------------------------|
+
